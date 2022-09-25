@@ -3,6 +3,3 @@ values =[97,98,99,100,101,102,104,105,106,107,108,109,110,111,112,113,114,115,11
 
 dict1 = dict(zip(keys,values))
 print("items:  ",dict1)
-
-for k,v in dict1.items:
-    print(k,v)
